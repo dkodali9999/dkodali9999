@@ -32,6 +32,7 @@ How to Run
 Clone the repository or download the notebook.
 Make sure you have the required Python packages installed:
 -pip install pandas numpy scikit-learn matplotlib seaborn
+
 Open the notebook in Jupyter and run all cells.
 
 Results
